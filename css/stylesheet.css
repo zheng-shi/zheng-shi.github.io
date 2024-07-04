@@ -171,13 +171,13 @@ div.publication .self {
 }
 div.publication .thumb {
   float: left;
-  width: 100px;
-  min-height: 85px;
+  width: 120px;
+  min-height: 100px;
   height: 100%;
   margin-right: 1em;
 }
 div.publication .thumb img {
-  max-width: 100px;
+  max-width: 120px;
 }
 
 
